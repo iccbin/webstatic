@@ -1,0 +1,16 @@
+body *:hover{
+    background: green;
+}
+
+input:focus {
+    background: silver;
+    font-weight: bold;
+}
+
+a:link, a:visited {
+    font-size: 13px;
+}
+
+a:hover {
+    font-size: 20px;
+}
